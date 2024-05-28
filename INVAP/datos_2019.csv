@@ -1,0 +1,735 @@
+﻿Edad,Identidad de género,¿Estás a cargo del cuidado de otras personas?,Tarea principal,Tipo de jornada,¿Cuál es el máximo nivel educativo que alcanzaste?,"A lo largo de tu carrera en INVAP, ¿has experimentado alguna vez una situación de violencia hacia vos?",Edad (disc),Discapacidad,Sexo/Genero,Orientación Sexual,Religión,Orientación política,Origen Social,Relación de parentezco,Formación Academica,TestigoI,TestigoII,VictimasI,VictimasII,VL1,VL2,VL3,VL4,VL5,VL6,VL7,VL8,VL9,VL10,VL12,VL13,VL14,VL15,VL16,VL17,VL18,VL19,VL20,VL21,VL22,VL23
+27,Mujer,No,Técnica,Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,0
+36,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1
+31,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+32,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+43,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,1,0,0,0,1,0,1,0,0,1,1,1,0,1,0,1,0,0,1,0,0,1,1,0,1,1,0,1,1,1,1,0,0
+37,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+39,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+62,Mujer,No,Asesoramiento Contractual,Jornada completa,Posgrado completo,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,1,0,0,0,1,1,0,0,0
+36,Varón,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Mujer,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Mujer,No,Técnica,Jornada completa,Universitario incompleto,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+33,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1
+29,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+40,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0
+42,Mujer,No,Administración,Jornada completa,Universitario incompleto,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+48,Varón,No,Jefe/a de área,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+50,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1
+32,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,"Limpieza, Mantenimiento",Jornada completa,cursando una tecnicatura,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Mujer,No,Mandos Intermedios,Jornada completa,Posgrado completo,1,1,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,1,1,1,1,1,1,1,1,1,0,1
+35,Mujer,Sí,Administración,Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,1
+59,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Mujer,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1
+35,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0
+37,Mujer,Sí,Administración,Jornada completa,Universitario incompleto,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+31,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,Mujer,No,Técnica,Jornada completa,Universitario incompleto,0,1,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+42,Mujer,Sí,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+62,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1
+61,Varón,No,Administración,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+40,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+31,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,No,Jefe/a de área,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,Mujer,No,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,"Profesional Gestión (no tecnológicxs), Administración",Jornada completa,Posgrado incompleto,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+56,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+42,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+28,Mujer,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,1
+46,Varón,Sí,"Mandos Intermedios, Profesional Gestión (no tecnológicxs)",Jornada completa,Posgrado completo,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+58,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Terciario incompleto,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+33,Mujer,No,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+40,Mujer,Sí,Administración,Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0
+38,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+53,Varón,Sí,"Jefe/a de Proyecto, Mandos Intermedios",Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,Mujer,Sí,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+61,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+24,Mujer,No,Técnica,Jornada completa,Universitario incompleto,1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0
+35,Varón,Sí,Profesional Gestión (no tecnológicos),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1
+39,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1
+60,Mujer,No,Administración,Jornada completa,Universitario incompleto,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,1,0,1,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,1
+46,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Secundario completo,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Varón,No,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+40,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Mujer,Sí,Administración,Jornada completa,Secundario incompleto,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,0,1,0
+43,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+50,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+33,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Varón,No,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+29,Varón,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+51,Varón,No,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,Mujer,No,Mandos Intermedios,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+28,Mujer,No,Técnica,Jornada completa,Universitario completo,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,"Administración, Técnica",Jornada completa,Universitario incompleto,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,1,1,0,0,1,0,1,1,1,0,1,0
+50,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,1
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+31,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Varón,No,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+54,Varón,Sí,Jefe/a de área,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Varón,No,Mandos Intermedios,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Varón,Sí,"Jefe/a de área, Mandos Intermedios, Profesional Gestión (no tecnológicxs), Técnica",Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+27,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Secundario completo,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Mujer,No,Administración,Otras formas de contratación,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Mujer,Sí,Administración,Jornada reducida,Terciario incompleto,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0
+54,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+27,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario en curso,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+54,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+33,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+45,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+42,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0
+31,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada reducida,Universitario incompleto,1,1,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+45,Varón,Sí,Administración,Jornada completa,Terciario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+42,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Varón,No,Técnica,Jornada completa,Secundario completo,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+30,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+48,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,"Administración, Técnica",Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1,0,1,1,1,1,1,0
+54,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,"Administración, Técnica",Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Mujer,No,Administración,Beca/pasantía/Práctica profesional/PPS,Universitario incompleto,1,1,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,1
+57,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,"Administración, Técnica, Mantenimiento, Seguridad",Jornada completa,Secundario completo,0,1,0,0,0,0,1,1,0,0,1,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+36,Varón,Sí,Técnica,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+31,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado completo,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Técnica,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,Mujer,No,"Profesional tecnológicx (Ingenierías y afines), Administración, Técnica",Jornada completa,Universitario incompleto,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+36,Mujer,No,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,1,0,0,1,0,0,1,1,0,1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,1
+57,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+48,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Varón,Sí,Administración,Jornada completa,Terciario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+43,Mujer,Sí,Técnica,Jornada reducida,Terciario completo,1,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1
+33,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0
+26,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,1,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,1,1,1,0,0
+52,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+40,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+37,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+38,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Técnica,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0
+39,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+26,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Varón,Sí,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+41,Mujer,No,Administración,Jornada completa,Secundario completo,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+38,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+59,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+35,Mujer,No,Administración,Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+52,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+32,Varón,Sí,Limpieza,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+33,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+25,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+32,Varón,Sí,Seguridad,Jornada completa,Primario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+47,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,1,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+34,Mujer,No,Administración,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,"Jefe/a de Proyecto, Mandos Intermedios",Jornada completa,Universitario completo,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+44,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+35,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Terciario incompleto,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,0,0,1,1,1,0,1
+45,Mujer,Sí,Administración,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+54,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+64,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+40,Mujer,No,Administración,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+39,Varón,Sí,Gerente / Subgerente,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,1
+38,Varón,No,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+29,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Varón,Sí,Mandos Intermedios,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Técnica,Jornada completa,Terciario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+45,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,No,Relaciones Públicas,Jornada completa,Universitario incompleto,1,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+45,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Mujer,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Administración,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1
+56,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+29,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+59,Varón,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,Varón,Sí,Jefe/a de área,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,Sí,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+40,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+23,Mujer,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+44,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Técnica, Seguridad",Jornada completa,Terciario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+29,Mujer,No,Administración,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1,0,0,1
+60,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+31,Mujer,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+44,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,1,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+54,Varón,Sí,Mandos Intermedios,Jornada completa,Terciario completo,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,0,0,1
+48,Varón,No,Administración,Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+43,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+29,Mujer,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0
+30,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+43,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+39,Varón,Sí,Técnica,Jornada completa,Técnico,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1,1,0,1
+39,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0
+45,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+54,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1
+37,Mujer,Sí,Mandos Intermedios,Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,"Profesional tecnológicx (Ingenierías y afines), Profesional Gestión (no tecnológicxs), Técnica",Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1
+52,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,0,0,0,0,1
+62,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Mujer,No,Técnica,Jornada completa,Secundario incompleto,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,1,0,1,1
+44,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+43,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Varón,No,Jefe/a de Proyecto,Jornada completa,Terciario completo,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+29,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1
+30,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada reducida,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+29,Varón,Sí,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,1,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,0
+24,Varón,No,Técnica,Jornada reducida,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Mujer,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+26,Mujer,No,Administración,Beca/pasantía/Práctica profesional/PPS,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Varón,No,Técnica,Jornada completa,Secundario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,Varón,Sí,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+43,Varón,No,Mantenimiento,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario en curso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,1
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,1
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0,0,1,1,0,0,0,0
+39,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Administración,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+33,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+42,Mujer,No,Administración,Jornada reducida,Universitario incompleto,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+34,Varón,No,Técnica,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Mujer,Sí,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,0,1
+55,Varón,Sí,Mantenimiento,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1
+41,Mujer,No,"Mandos Intermedios, Profesional tecnológicx (Ingenierías y afines)",Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+30,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,"Mandos Intermedios, Profesional tecnológicx (Ingenierías y afines)",Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+43,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1
+33,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+38,Varón,Sí,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+43,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada reducida,Posgrado incompleto,1,1,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,1,0,0,0
+24,Mujer,No,"Administración, Técnica",Beca/pasantía/Práctica profesional/PPS,Universitario en curso,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,No,Administración,Jornada completa,Terciario completo,1,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0
+43,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,Sí,Técnica,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado incompleto,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+34,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+60,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,1,0,0,1,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,1
+34,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+38,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado incompleto,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1
+46,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1
+39,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,Sí,Administración,Jornada completa,Terciario completo,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0
+29,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Mujer,No,Administración,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+43,Mujer,No,Técnica,Jornada completa,Terciario completo,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+34,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Administración,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+56,Mujer,Sí,Jefe/a de área,Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+36,Varón,Sí,Técnica,Jornada completa,Terciario incompleto,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Mujer,Sí,Mandos Intermedios,Jornada reducida,Posgrado incompleto,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0,1
+44,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Otras formas de contratación,Posgrado completo,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0
+46,Varón,No,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+22,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Secundario completo,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+46,Mujer,Sí,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0
+35,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado completo,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+62,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+42,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Mujer,Sí,Administración,Jornada reducida,Terciario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+34,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado completo,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,No,Administración,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,No,Mantenimiento,Jornada completa,Secundario completo,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+37,Mujer,Sí,Mandos Intermedios,Jornada reducida,Posgrado completo,1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,1
+48,Mujer,Sí,"Jefe/a de Proyecto, Jefe/a de área",Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+37,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+37,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+44,Mujer,No,Administración,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+40,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+40,Mujer,Sí,Jefe/a de área,Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado incompleto,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+61,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,1,0,0,1,0,1,0,1,1,1,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,Mujer,Sí,Jefe/a de área,Jornada completa,Posgrado completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,1,0,1,1,0,1
+47,Mujer,No,Mantenimiento,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Varón,No,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+24,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0
+46,Mujer,No,"Limpieza, PLANILLAS ",Jornada completa,CURSOS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Mujer,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,1,0,1
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,No binaria,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+39,Mujer,Sí,Técnica,Jornada completa,Universitario incompleto,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+31,Varón,No,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,0,1,0,0,0,1,0
+45,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,1,1,0,1,1,1,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,0,1
+40,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+39,Varón,No,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+44,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Posgrado completo,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+44,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+60,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,1,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1
+54,Varón,Sí,Jefe/a de área,Jornada completa,Terciario completo,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,No,Técnica,Jornada completa,Secundario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+40,Mujer,Sí,Técnica,Jornada completa,Terciario incompleto,1,1,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,1,0,1
+47,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+30,Varón,Sí,Técnica,Jornada completa,Posgrado incompleto,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+36,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+55,Varón,No,Técnica,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+41,Mujer,Sí,Administración,Jornada completa,Terciario completo,1,1,0,1,0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,1,1,1,1
+30,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Terciario completo,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+38,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+61,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+23,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario en proceso,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Varón,No,Deposito central,Jornada completa,Secundario incompleto,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Administración,Jornada completa,Terciario completo,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,1,0,0
+53,Varón,Sí,Jefe/a de área,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,No,"Técnica, Mantenimiento",Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0
+39,Mujer,No,Administración,Jornada reducida,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,1,0,0,0,0,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,1,0,0,1
+45,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+32,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Mujer,No,Administración,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+30,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Mujer,Sí,Administración,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0
+49,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Terciario completo,1,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1
+44,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+36,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+46,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+25,Mujer,Sí,servicio medico,Jornada completa,Universitario incompleto,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+32,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+45,Varón,No,chofer del deposito,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado incompleto,1,1,0,1,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+26,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+62,Varón,Sí,Gerente / Subgerente,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,Sí,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Terciario incompleto,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+32,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+29,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Mujer,No,Administración,Jornada completa,Terciario completo,1,0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,1,0
+40,Varón,No,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Mujer,No,Administración,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,Sí,Jefe/a de área,Jornada completa,Terciario completo,1,1,0,0,0,0,0,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,"Mandos Intermedios, Profesional tecnológicx (Ingenierías y afines), Profesional Gestión (no tecnológicxs)",Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+59,Varón,No,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,1,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1
+37,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+37,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+27,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+60,Varón,No,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,0,1,1,0,1,0,0,0,1,0,1,0,1
+29,Mujer,No,Técnica,Jornada completa,Universitario incompleto,0,1,0,1,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,1,1,0,0
+48,NS/NC,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+38,Varón,No,Mantenimiento,Jornada completa,Secundario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+41,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1
+48,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,1,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+37,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada reducida,Posgrado completo,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1
+38,Varón,Sí,Técnica,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+38,Mujer,Sí,Administración,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+57,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Técnica,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Varón,Sí,Gerente / Subgerente,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Mujer,Sí,Mandos Intermedios,Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,0,1
+25,Varón,Sí,"No estoy seguro de mi cargo, pero tengo un grupo pequeño a cargo",Jornada completa,Universitario incompleto,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1
+29,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+33,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,Varón,Sí,Jefe/a de área,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Varón,No,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+24,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Varón,No,pasante en área de QA TICs y servicios tecnológicos,Beca/pasantía/Práctica profesional/PPS,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,"Técnica, Aseguramiento de Calidad",Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+31,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Varón,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+24,Varón,No,Técnica,Jornada reducida,Universitario incompleto,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+33,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0
+36,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+39,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,No,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+51,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,1,0,0,1,1,0,0,1,1,1,1,1,1,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+43,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada reducida,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,No,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,recepcion,Jornada completa,cursos,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Mandos Intermedios,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+46,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada reducida,Terciario completo,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+47,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+62,Varón,Sí,Administración,Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+47,Mujer,Sí,Administración,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+40,Varón,No,Coordinador de Ingeniería,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+60,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+62,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+39,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Varón,Sí,Jefe/a de área,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Varón,No,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+29,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Mujer,No,Administración,Jornada reducida,Terciario incompleto,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Mujer,Sí,Administración,Jornada reducida,Universitario completo,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+45,Mujer,Sí,Jefe/a de área,Jornada completa,Universitario incompleto,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+32,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+59,Varón,Sí,Gerente / Subgerente,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,Mujer,No,Administración,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Varón,Sí,"Administración, Técnica",Jornada completa,Secundario completo,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+49,Varón,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Mujer,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+39,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,1,0,0,1,1,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,1,1
+45,Mujer,Sí,"Jefe/a de área, Administración",Jornada reducida,Secundario completo,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Mujer,Sí,Técnica,Jornada completa,Terciario incompleto,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+51,Varón,No,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+33,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+32,Varón,No,"Mandos Intermedios, Profesional tecnológicx (Ingenierías y afines)",Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+44,Varón,No,Mandos Intermedios,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+33,Varón,Sí,operador,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+47,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+23,Varón,No,Técnica,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,Varón,Sí,Mandos Intermedios,Jornada completa,Secundario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+59,Varón,Sí,Mandos Intermedios,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Limpieza,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+39,Varón,Sí,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Administración,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+26,Mujer,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+49,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+50,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Mujer,Sí,Mandos Intermedios,Jornada reducida,Terciario completo,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+31,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Profesional Tecnologico (Ingenieria y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+42,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+53,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1
+29,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,No,Técnica,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+39,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+49,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+61,Varón,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+34,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Varón,Sí,Gerente / Subgerente,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Varón,No,Jefe/a de Proyecto,Jornada completa,Posgrado completo,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Profesional Tecnologico (Ingenieria y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+40,Mujer,Sí,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+24,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+45,Varón,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+36,Mujer,No,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,0
+47,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Terciario completo,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Técnica,Jornada completa,Terciario incompleto,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,No,"Profesional Gestión (no tecnológicxs), Administración",Jornada completa,Secundario completo,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0
+60,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Mujer,No,Técnica,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,1
+28,Mujer,No,Administración,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1
+27,Varón,Sí,"Técnica, Mantenimiento",Jornada completa,Secundario completo,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+29,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+47,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,1
+33,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Mujer,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+40,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+58,Varón,No,Gerente / Subgerente,Jornada completa,Posgrado completo,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+43,Varón,Sí,Gerente / Subgerente,Jornada completa,Posgrado completo,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+50,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Mujer,No,"Jefe/a de Proyecto, Profesional tecnológicx (Ingenierías y afines)",Jornada completa,Posgrado completo,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+65,Varón,Sí,"Mandos Intermedios, Técnica",Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+33,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,1,0,1,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+29,Varón,No,Administración,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+45,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+34,Mujer,No,Administración,Jornada completa,Terciario completo,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+35,Varón,Sí,"Administración, Técnica",Jornada completa,Terciario completo,1,1,1,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1
+46,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,1
+62,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Varón,Sí,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Mujer,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+38,Mujer,No,Profesional Gestión (no tecnológicxs),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Mujer,No,Técnica,Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,1,0,1
+32,Varón,No,"Mandos Intermedios, Me resulta molesto que usen lenguaje inclusivo como ""tecnológicx""",Jornada completa,Universitario completo,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+31,Mujer,Sí,Administración,Jornada reducida,Universitario incompleto,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,1,1,0,1
+37,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+26,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+40,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Profesional Gestión (no tecnológicxs), Técnica",Jornada completa,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+44,Mujer,No,Técnica,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0,1,0,1,1
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+51,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Mujer,Sí,Administración,Jornada reducida,Terciario incompleto,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+39,Varón,No,integración y ensayo ,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+35,Mujer,No,Administración,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+33,Varón,Sí,Mantenimiento,Jornada completa,Secundario incompleto,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+38,Varón,No,Técnica,Jornada completa,Secundario incompleto,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+36,Varón,No,Técnica,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Mujer,No,Técnica,Jornada completa,Secundario completo,1,1,0,1,0,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,0,1,0,1,1,0,1
+57,Varón,No,Jefe/a de Proyecto,Jornada completa,Universitario completo,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+54,Mujer,No,Administración,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+52,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,Mujer,Sí,Administración,Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+35,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+49,Varón,Sí,Jefe/a de área,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,No,Profesional Gestión (no tecnológicxs),Jornada completa,Terciario incompleto,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+34,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+43,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada reducida,Universitario completo,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,1
+40,Varón,No,Técnica,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+35,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+37,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Mujer,No,Administración,Jornada completa,Secundario completo,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+36,Varón,No,Técnica,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+55,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+62,Varón,No,deposito,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+58,Varón,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Varón,No,Técnica,Beca/pasantía/Práctica profesional/PPS,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Mujer,No,Administración,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Varón,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+33,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+38,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Gerente / Subgerente,Jornada completa,Posgrado incompleto,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,1,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+34,Varón,No,Técnica,Jornada completa,Primario completo,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+48,Mujer,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+47,Mujer,No,Mantenimiento,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+36,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+37,Varón,No,Técnica,Jornada completa,Universitario incompleto,1,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+34,Varón,No,Técnica,Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+59,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+41,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+47,Mujer,No,Limpieza,Jornada completa,Secundario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Varón,No,Técnica,Jornada completa,Secundario completo,1,0,0,0,0,0,0,1,0,1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+35,Mujer,Sí,"Mandos Intermedios, Profesional tecnológicx (Ingenierías y afines)",Jornada reducida,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1
+52,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+60,Varón,Sí,Técnica,Jornada completa,Universitario incompleto,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+50,Varón,Sí,Jefe/a de Proyecto,Jornada completa,Posgrado incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+47,Mujer,No,Seguridad,Jornada reducida,Universitario incompleto,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+46,Varón,Sí,Mandos Intermedios,Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+58,Varón,No,"Jefe/a de área, Mandos Intermedios",Jornada completa,Posgrado completo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Varón,Sí,Administración,Jornada completa,Universitario incompleto,1,1,0,0,1,0,1,1,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1,0,0,1
+44,Varón,Sí,Profesional Gestión (no tecnológicxs),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,Sí,Técnica,Jornada completa,Terciario completo,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Mujer,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+32,No binaria,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+42,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+57,Varón,No,Administración,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Varón,Sí,Jefe/a de área,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+43,Varón,Sí,Jefe/a de área,Jornada completa,Posgrado completo,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0
+43,Varón,Sí,Técnica,Jornada completa,Terciario incompleto,1,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+52,Varón,Sí,"Mandos Intermedios, Profesional tecnológicx (Ingenierías y afines), Profesional Gestión (no tecnológicxs)",Jornada completa,Universitario completo,1,1,0,0,0,0,1,0,1,1,0,0,1,1,1,0,1,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1
+60,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Mujer,No,Administración,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,1
+53,Varón,No,Técnica,Jornada completa,Secundario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Varón,Sí,"Jefe/a de área, Administración, responsable de Logistica",Jornada completa,Universitario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,No,"Profesional tecnológicx (Ingenierías y afines), Técnica",Jornada reducida,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+34,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+46,Mujer,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,1,0,0,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1,0,1,0
+39,Varón,Sí,Técnica,Jornada completa,Primario incompleto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Varón,Sí,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+37,Varón,No,Profesional tecnológicx (Ingenierías y afines),Jornada completa,Posgrado completo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Varón,No,Mandos Intermedios,Jornada completa,Terciario completo,1,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+36,Mujer,No,"Administración, Limpieza, Mantenimiento",Jornada completa,Bachelllirato,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1
+38,Varón,Sí,Mandos Intermedios,Jornada completa,Universitario completo,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
